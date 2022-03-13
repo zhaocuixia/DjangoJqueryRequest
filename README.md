@@ -1,0 +1,2 @@
+# DjangoJqueryRequest
+Jqeury请求Django处理
